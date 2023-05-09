@@ -7,7 +7,7 @@
 "use strict"
 
 function doMathClicked () {
-  // This function multiplyes two numbers
+  // This function multiplies two numbers
 
   // input
   const number1 = parseInt(document.getElementById("number-1").value)
