@@ -25,7 +25,7 @@ func main() {
 	// process
 	for counter < number2 {
 		answer += number1
-		counter ++
+		counter++
 	}
 
 	// output
