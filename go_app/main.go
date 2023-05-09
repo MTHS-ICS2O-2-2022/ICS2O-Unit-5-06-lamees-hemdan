@@ -24,8 +24,8 @@ func main() {
 
 	// process
 	for counter < number2 {
-		answer = answer + number1
-		counter = counter + 1
+		answer += number1
+		counter ++
 	}
 
 	// output
